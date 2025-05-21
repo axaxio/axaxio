@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-![cobrinha](URL_DO_GIF)
+![cobrinha](https://github.com/axaxio/axaxio/blob/output/snake.svg)
 
 ###
