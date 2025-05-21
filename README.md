@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/teamCyberPanthers/teamCyberPanthers/output/snake.svg" alt="Snake animation" />
+![cobrinha](URL_DO_GIF)
 
 ###
